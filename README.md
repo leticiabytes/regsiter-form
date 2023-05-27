@@ -1,1 +1,1 @@
-## Infotel Login Hotspot
+## register form
